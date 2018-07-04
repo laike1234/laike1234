@@ -1,1 +1,5 @@
-Œ“ «¿¥ø»ø»ø»ø»ø»ø»ø»ø»ø»
+using system£ª
+namespace TestApplication£ª
+class Test1{
+
+}
